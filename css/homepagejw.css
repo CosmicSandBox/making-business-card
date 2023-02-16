@@ -1,0 +1,37 @@
+
+
+
+
+* {
+    background-color: #FFFBEE;
+    text-align: center;
+}
+
+img {
+    max-width: 355px;
+    height: auto;
+}
+#nocard {
+    
+}
+#makeyours{
+
+}
+#mastercard{
+
+}
+
+#useyourfinger{
+    font-size: 18px;
+}
+
+@media (min-width:384px) {
+    #useryourfinger { font-size: 18px;}
+}
+
+@media (min-width:1500px) {
+    #useryourfinger { font-size: 30px;}
+}
+.class {
+    
+}
